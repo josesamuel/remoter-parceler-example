@@ -1,0 +1,4 @@
+include  ":sampleservice", ":sampleclient"
+
+
+rootProject.name = 'remoter-parceler-example-parent'
